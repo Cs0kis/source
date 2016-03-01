@@ -236,13 +236,13 @@
     var botCreatorIDs = ["3851534", "4105209"];
 
     var basicBot = {
-        version: "2.8.15",
+        version: "Sanene",
         status: false,
-        name: "basicBot",
+        name: "Botlu",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/bscBot/source/master/basicBot.js",
+        scriptLink: "https://rawgit.com/Cs0kis/source/master/plugdj.js",
         cmdLink: "http://git.io/245Ppg",
-        chatLink: "https://rawgit.com/bscBot/source/master/lang/en.json",
+        chatLink: "https://rawgit.com/bscBot/source/master/lang/tr.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
