@@ -251,7 +251,7 @@
             botName: "basicBot",
             language: "turkish",
             chatLink: "https://rawgit.com/bscBot/source/master/lang/tr.json",
-            scriptLink: "https://rawgit.com/Cs0kis/source/master/basicBot.js",
+            scriptLink: "https://rawgit.com/Cs0kis/source/master/plugdj.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
